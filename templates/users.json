@@ -1,0 +1,9 @@
+{
+  "users": [
+    {"name": "Иван Фёдоров", "image": "static/img/user1.png", "professions": ["астрогеолог", "инженер по жизнеобеспечению"]},
+    {"name": "Пётр Сидоров", "image": "static/img/user2.png", "professions": ["инженер", "специалист по радиационной защите"]},
+    {"name": "Сергей Иванов", "image": "static/img/user3.png", "professions": ["врач", "метеоролог"]},
+    {"name": "Илья Семёнов", "image": "static/img/user4.png", "professions": ["пилот дронов", "строитель"]},
+    {"name": "Георгий Григорьев", "image": "static/img/user5.png", "professions": ["штурман", "пилот"]}
+  ]
+}

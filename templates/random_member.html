@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<p class="h1 text-center">{{name}}</p>
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+        </div>
+        <div class="col-sm">
+            <img src={{image}} class="text-center" width=500px alt="Извините, фото не загрузилось">
+        </div>
+        <div class="col-sm">
+        </div>
+    </div>
+</div>
+<p class="h3 text-center">{{list_prof}}</p>
+{% endblock %}
